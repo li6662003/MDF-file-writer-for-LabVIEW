@@ -21,7 +21,8 @@ LabVIEW 版本：LabVIEW 2015 及以上（建议 64 位版本）
 依赖 DLL：mdflibrary.dll（需放置于 data 子目录或系统路径中）
 
 如果你喜欢作者可以打赏
-![Uploading image.png…]()
+<img width="821" height="963" alt="image" src="https://github.com/user-attachments/assets/4892d3f6-00cf-42eb-bdd3-7159c9d0230f" />
+
 
 
 可选硬件：无硬件依赖，纯软件库
